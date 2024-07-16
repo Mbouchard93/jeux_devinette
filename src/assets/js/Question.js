@@ -57,7 +57,7 @@ const questions = [
     new Question ("Je suis un fruit jaune et courbé. Qui suis-je ?", "banane"),
     new Question(" Plus je sèche, plus je deviens humide. Qui suis-je ?", 'une serviette'),
     new Question ("Je suis souvent devant vous mais vous ne pouvez jamais me voir. Qui suis-je ?", 'futur'),
-    new Question ("Je suis souvent devant vous mais vous ne pouvez jamais me voir. Qui suis-je ?", 'tout les mois'),
+    new Question ("Quelle mois de l'année as 28 jours?", 'tout les mois'),
     new Question ("Je commence par un 'e', je finis par un 'e', et je ne contiens qu'une lettre. Qui suis-je ?", 'une enveloppe'),
 
 ];
